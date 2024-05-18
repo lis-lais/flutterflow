@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439796046004",
+    "project_id": "scanqrcode-59dc7",
+    "storage_bucket": "scanqrcode-59dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439796046004:android:19aa126014fe30f9e45fe1",
+        "android_client_info": {
+          "package_name": "com.mycompany.scanqrcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEqxA86Kr_HZkivtYUFn3R97KlSbYW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439796046004:android:cc29e2f80c4605bbe45fe1",
+        "android_client_info": {
+          "package_name": "com.mycompany.scanqrcode2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEqxA86Kr_HZkivtYUFn3R97KlSbYW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
